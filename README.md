@@ -1,4 +1,4 @@
-[numbersToSymbols](https://github.com/oleksiykalashnyk/taskForJS-numbersToSymbols)  ([demo](https://oleksiykalashnyk.github.io/taskForJS-numbersOfFibonacci/))
+[numbersToSymbols](https://github.com/oleksiykalashnyk/taskForJS-numbersToSymbols)  ([demo](https://oleksiykalashnyk.github.io/taskForJS-numbersToSymbols/))
 ========================
 
 Author of the idea: 
