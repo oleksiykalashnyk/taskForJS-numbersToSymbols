@@ -16,18 +16,27 @@ Create a program that implements character output as a string, where the number 
 Example # 1:
 ```javascript
 Input: 5
-Output: "# @ * # @"
+Output: 
+"#"
+"# @"
+"# @ *"
+"# @ * #"
+"# @ * # @"
 ```
 Example # 2:
 ```javascript
 Input: 7
-Output: "# @ * # @ * #"
+Output: 
+"#"
+"# @"
+"# @ *"
+"# @ * #"
+"# @ * # @"
+"# @ * # @ *"
+"# @ * # @ * #"
+
 ```
-Example # 3:
-```javascript
-Input: 99
-Output: "# @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ * # @ *"
-```
+
 ------------------------------
 
 ### The requirement to execute:
